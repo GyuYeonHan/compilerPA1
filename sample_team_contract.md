@@ -31,5 +31,5 @@ Signed,
 | Name  | Signature |
 | ----  | --------- |
 | 강민수 |           |
-| name2 |           |
+| KangJiwan |           |
 | ...   |           |
