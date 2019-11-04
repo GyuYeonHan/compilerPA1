@@ -30,6 +30,6 @@ Signed,
 
 | Name  | Signature |
 | ----  | --------- |
-| name1 |           |
+| 강민수 |           |
 | name2 |           |
 | ...   |           |
