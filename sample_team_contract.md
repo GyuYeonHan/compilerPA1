@@ -18,7 +18,7 @@ Team Contract for
 Signed,
 
 | Name      | Signature |
-| 정윤우     |           |
+| 정윤우 |           |
 | KangJiwan |           |
 | 강민수 |           |
 | 문영태 |           |
