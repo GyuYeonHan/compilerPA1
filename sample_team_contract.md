@@ -17,13 +17,19 @@ Team Contract for
 
 Signed,
 
-| Name  | Signature |
-| 정윤우 |           |
+| Name      | Signature |
+| 정윤우     |           |
 | KangJiwan |           |
 | 강민수 |           |
 | 문영태 |           |
 | 이정은 |           |
 | 최재흥 |           |
 | 김동현 |           |
-| 한규연   |           |
-| 박병윤   |           |
+| 한규연 |           |
+| 박병윤 |           |
+
+| Name  | Signature |
+| ----  | --------- |
+| name1 |           |
+| name2 |           |
+| ...   |           |
