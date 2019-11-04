@@ -18,6 +18,7 @@ Team Contract for
 Signed,
 
 | Name  | Signature |
+| ----  | --------- |
 | 정윤우 |           |
 | KangJiwan |           |
 | 강민수 |           |
@@ -27,9 +28,3 @@ Signed,
 | 김동현 |           |
 | 한규연 |           |
 | 박병윤 |           |
-
-| Name  | Signature |
-| ----  | --------- |
-| 강민수 |           |
-| KangJiwan |           |
-| ...   |           |
