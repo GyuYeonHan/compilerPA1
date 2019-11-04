@@ -1,4 +1,4 @@
-Team Contract for ``Your Team Name``
+Team Contract for 
 ====================================
 
 - We agree that we will participate actively in this class project.
@@ -11,9 +11,9 @@ Team Contract for ``Your Team Name``
 - We agree to report an unresponsive team member to the course staff as soon as problems occur.
 - We agree that we will seek help from the course staff and not wait until the last minute before the assignment is due.
 - We agree that we will post our progress frequently on our team's page on the GitLab repository.
-- ... __Include additional clauses for your team. You must add at least one additional clause__ ...
-- ...
-- ...
+- 
+- 
+- 
 
 Signed,
 
